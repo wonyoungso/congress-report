@@ -1,0 +1,39 @@
+{
+  "name": "congress-report",
+  "version": "1.0.0",
+  "description": "19대 국회의원 성적표",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonyoungso/congress-report.git"
+  },
+  "author": "Wonyoung So <mail@wonyoung.so> (http://wonyoung.so/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wonyoungso/congress-report/issues"
+  },
+  "peerDependencies": {
+    "webpack": "~1.12.2",
+    "node-sass": "~3.4.2",
+    "sass-loader": "~3.1.2"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "~1.14.1",
+    "expose-loader": "~0.7.1",
+    "lodash": "~4.2.0",
+    "jquery": "~2.1.4",
+    "webpack": "~1.12.2",
+    "node-sass": "~3.4.2",
+    "backbone-events-standalone": "~0.2.7",
+    "style-loader": "~0.13.0",
+    "css-loader": "~0.23.1",
+    "sass-loader": "~3.1.2",
+    "d3": "~3.5.16",    
+    "moment": "~2.11.1",
+    "extract-text-webpack-plugin": "~1.0.1"
+  },
+  "homepage": "https://github.com/wonyoungso/congress-report#readme"
+}
